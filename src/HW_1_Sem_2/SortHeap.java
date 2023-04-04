@@ -1,3 +1,5 @@
+package HW_1_Sem_2;
+
 public class SortHeap {
 
     public static void sort(int[] arr) {
