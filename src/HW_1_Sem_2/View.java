@@ -1,12 +1,13 @@
 package HW_1_Sem_2;
 
+
 import java.util.Arrays;
 import java.util.Random;
 
 public class View {
 
 
-    public static void run(){
+    public static void run() {
         int[] array = new int[15];
         int len = array.length;
         int min = -15;
